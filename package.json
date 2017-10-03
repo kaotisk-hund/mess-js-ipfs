@@ -1,0 +1,22 @@
+{
+  "name": "mess-js-ipfs",
+  "version": "1.0.0",
+  "description": "Messing with js-ipfs to learn,",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"nothing\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaotisk-hund/mess-js-ipfs.git"
+  },
+  "keywords": [
+    "ipfs"
+  ],
+  "author": "Kaotisk Hund",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/kaotisk-hund/mess-js-ipfs/issues"
+  },
+  "homepage": "https://github.com/kaotisk-hund/mess-js-ipfs#readme"
+}
